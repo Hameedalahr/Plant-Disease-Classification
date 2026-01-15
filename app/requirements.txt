@@ -4,4 +4,5 @@ matplotlib
 pillow
 scikit-learn
 streamlit
+huggingface-hub
 tensorflow
